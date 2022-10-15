@@ -1,0 +1,32 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+}
+.navbar {
+    background-image: url(../imgs/header-image.jpg);
+    background-size: 100%;
+    background-position: 100%;
+}
+.navbar h1 {
+    font-size: 1.8rem;
+    color: white;
+}
+.title {
+    margin-top: 1.8rem;
+}
+.title h2 {
+    color: #2F4F4F;
+    text-align: center;
+    font-size: 1.7rem;
+}
+.title img {
+    margin: auto;
+    max-height: 2.2rem;
+}
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer img {
+    max-height: 1.25rem;
+}
